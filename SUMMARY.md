@@ -1,8 +1,6 @@
 # 目录
 
-* [序章](0.\ Summer\ 1943/README.md)
-    * [Writing is nice](part1/writing.md)
-    * [GitBook is nice](part1/gitbook.md)
-* [Part II](part2/README.md)
-    * [We love feedback](part2/feedback_please.md)
-    * [Better tools for authors](part2/better_tools.md)
+* 序章
+    * [1943年夏天](0.\ Summer\ 1943/0.\ Summer\ 1943.md)
+* [1. 导弹的诞生 ](1.\ The\ Birth\ of\ the\ Missile/1.0\ The\ Birth\ of\ the\ Missile.md)
+    * [导弹的诞生](1.\ The\ Birth\ of\ the\ Missile/1.0\ The\ Birth\ of\ the\ Missile.md)
