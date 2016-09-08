@@ -1,10 +1,7 @@
 {
     "title": "火箭与第三帝国",
     "author": "kkndyu",
-    "plugins": [
-        "fontsettings", 
-        "-highlight"
-    ],
+    "plugins": [],
     "pluginsConfig": {
         "fontsettings": {
             "theme": "sepia", 
