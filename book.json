@@ -4,9 +4,9 @@
     "plugins": [],
     "pluginsConfig": {
         "fontsettings": {
-            "theme": "white", 
+            "theme": "night", 
             "family": "serif", 
-            "size": 2
+            "size": 3
          }
     }
 }
