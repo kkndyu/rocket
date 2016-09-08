@@ -1,5 +1,5 @@
 /* CSS for website */
 .book .book-summary, .book .book-body  {
     font-family: KaiTi, "Microsoft Yahei", Arial, sans-serif;
-    font: bold 16px/1.25em KaiTi, "Microsoft Yahei", Arial, sans-serif;
+    font: 16px/1.25em KaiTi, "Microsoft Yahei", Arial, sans-serif;
 }
