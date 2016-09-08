@@ -4,7 +4,7 @@
     "plugins": [],
     "pluginsConfig": {
         "fontsettings": {
-            "theme": "night", 
+            "theme": "sepia", 
             "family": "serif", 
             "size": 3
          }
