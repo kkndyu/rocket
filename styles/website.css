@@ -1,4 +1,5 @@
 /* CSS for website */
 .book .book-summary, .book .book-body  {
     font-family: "Microsoft YaHei UI", "Microsoft Yahei", Helvetica, Arial, sans-serif;
+    font-weight: bold;
 }
