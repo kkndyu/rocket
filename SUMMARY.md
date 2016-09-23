@@ -1,5 +1,5 @@
 # Summary
-1.4 From A-1 to A-2
+
 * [译序](README.md)
 * [序章 1943年夏](0. Summer 1943/0.0 prologue Summer 1943.md)
 * [1. 导弹的诞生](1. The Birth of the Missile/1.0 The Birth of the Missile.md)
