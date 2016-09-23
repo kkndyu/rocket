@@ -1,7 +1,7 @@
 # 火箭与第三帝国
 翻译连载中
 
-在线阅读：[GitBook](https://www.gitbook.io/book/kkndyu/rocket) 或 [Github](https://github.com/kkndyu/rocket/blob/master/SUMMARY.md)。
+在线阅读：[GitBook](https://www.gitbook.com/book/kkndyu/rocket) 或 [Github](https://github.com/kkndyu/rocket/blob/master/SUMMARY.md)。
 
 * pdf 版本 [下载](https://www.gitbook.com/download/pdf/book/kkndyu/rocket)
 * epub 版本 [下载](https://www.gitbook.com/download/epub/book/kkndyu/rocket)
