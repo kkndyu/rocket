@@ -9,7 +9,7 @@
 
 ### 封面
 
-<p align="center"><img align="middle" src="../styles/covers.jpg" width="350" height="500" alt="封面"/></p>
+![封面](../styles/covers.jpg)
 
 ### 译序
 
