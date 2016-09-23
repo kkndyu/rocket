@@ -11,6 +11,9 @@
 
 ![封面](styles/rocket_and_reich.jpg)
 
+* [Amazon.cn](https://www.amazon.cn/The-Rocket-and-the-Reich-Peenemunde-and-the-Coming-of-the-Ballistic-Missile-Era-Neufeld-Michael-J/dp/1588344673/ref=sr_1_2?ie=UTF8&qid=1474604100&sr=8-2&keywords=the+rocket+and+the+reich)
+* [Google Book](https://books.google.com/books?id=p-CZ5iydXoUC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
+
 ### 译序
 
 　　本书全名为[《火箭与第三帝国——佩内明德以及随后到来的弹道导弹时代》](https://www.amazon.com/Rocket-Reich-Peenemunde-Ballistic-Missile/dp/1588344673/ref=pd_sim_14_8?ie=UTF8&pd_rd_i=1588344673&pd_rd_r=9KTBWHQJF1K9MA5ND9V9&pd_rd_w=eFQyH&pd_rd_wg=5M1u5&psc=1&refRID=9KTBWHQJF1K9MA5ND9V9)，是一本火箭史类的半学术书籍，主要讲述上世纪德国火箭技术的发展历程，时间跨度从1929年赫尔曼•奥伯特建造平流层火箭开始，到1945年冯•布劳恩投奔美帝结束。无论是火箭技术细节还是诸多历史事件，书中的描述都恰到好处。算起来，纳粹德国是当今世界火箭技术的正统发源地，苏联第一代火箭R-1是A-4翻版，美国红石火箭直接由布劳恩设计，是A-4放大版，中国的第一代火箭东风-1根据苏联援华的R-2仿制。论道统，A-4是火箭界的开山鼻祖。所以谈火箭史就不能不说A-4，而A-4出自德国陆军火箭研发中心：佩内明德，所以佩内明德在这本书中占据了重要的地位，书中从佩内明德选址建设讲到佩内明德疏散废弃，正好就是纳粹德国火箭从起源到结束的历史。
