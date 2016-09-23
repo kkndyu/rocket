@@ -6,7 +6,7 @@
 * pdf 版本 [下载](https://www.gitbook.com/download/pdf/book/kkndyu/rocket)
 * epub 版本 [下载](https://www.gitbook.com/download/epub/book/kkndyu/rocket)
 
-欢迎加入火箭与第三帝国 QQ 群
+欢迎关注译者微博 [@李挺诺夫](http://weibo.com/kkndyu)，或加入火箭与第三帝国 QQ 群，分享火箭史资源，交流火箭技术。
 
 * QQ 群 ：10461669
 
