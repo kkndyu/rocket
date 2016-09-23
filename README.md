@@ -5,7 +5,11 @@
 * 德文著作、论文参考wiki百科
 * 专有名词首次出现均给出原文全称
 * 所有脚注均为译注
-* 所有图片及其说明均为译者所加，标明来源
+* 所有表明来源的图片及其说明均为译者所加
+
+### 封面
+
+<p align="center"><img align="middle" src="../styles/covers.jpg" alt="封面"  width="350" height="500" ></p>
 
 ### 译序
 
