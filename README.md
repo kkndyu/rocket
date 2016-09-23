@@ -9,7 +9,7 @@
 
 ### 封面
 
-![封面](../styles/covers.jpg)
+![封面](styles/rocket_and_reich.jpg)
 
 ### 译序
 
