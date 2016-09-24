@@ -11,6 +11,7 @@
 * [2. 佩内明德的建设](2. The Founding of Peenemünde/2.0 The Founding of Peenemünde.md)
     * [火箭飞机与陆空联盟](2. The Founding of Peenemünde/2.1 Rocket Planes and the Luftwaffe Alliance.md)
     * [佩内明德与A-4](2. The Founding of Peenemünde/2.2 Peenemünde and the A-4.md)
+    * [联盟破裂](2. The Founding of Peenemünde/2.3 The Alliance Declines.md)
 * [3. 关键技术的突破](WAIT.md)
 * [4. 基地的困难时间](WAIT.md)
 * [5. 希特勒压注火箭](WAIT.md)
