@@ -19,3 +19,5 @@
 * [7. 转入地下](WAIT.md)
 * [8. 火箭，Inc.](WAIT.md)
 * [后记 佩内明德的遗产](WAIT.md)
+* 附录
+    * [空军的火箭引擎](translator/Walter_Hydrogen_Peroxide_Motor.md)
