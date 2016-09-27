@@ -12,6 +12,7 @@
     * [火箭飞机与陆空联盟](2. The Founding of Peenemünde/2.1 Rocket Planes and the Luftwaffe Alliance.md)
     * [佩内明德与A-4](2. The Founding of Peenemünde/2.2 Peenemünde and the A-4.md)
     * [联盟衰退](2. The Founding of Peenemünde/2.3 The Alliance Declines.md)
+    * [成功的失败：A-3](2. The Founding of Peenemünde/2.4 Successful Failure the A-3.md)
 * [3. 关键技术的突破](WAIT.md)
 * [4. 基地的困难时间](WAIT.md)
 * [5. 希特勒压注火箭](WAIT.md)
