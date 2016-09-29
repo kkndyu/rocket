@@ -1,6 +1,8 @@
 # 火箭与第三帝国
 翻译连载中
 
+本书译自《The Rocket and the Reich》，讲述了二战德国V-2火箭研发历程。V-2的技术难题如何攻克，元首的赞赏如何化为实际的资源，劳工匮乏的困境如何化解，这一切尽在《火箭和第三帝国》。
+
 在线阅读：[GitBook](https://www.gitbook.com/read/book/kkndyu/rocket) 或 [Github](https://github.com/kkndyu/rocket/blob/master/SUMMARY.md)。
 
 * pdf 版本 [下载](https://www.gitbook.com/download/pdf/book/kkndyu/rocket)
