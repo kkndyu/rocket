@@ -17,7 +17,7 @@
     * [蒂尔与大引擎](3. Breakthrough in Key Technologies/3.1 Thiel and the Big Engine.md)
     * [库尔茨韦格，赫尔曼与超音速空气动力学](3. Breakthrough in Key Technologies/3.2 kurzweg, Hermann, and supersonic aerodynamics.md)
     * [布劳恩，施泰因霍夫与导弹制导](3. Breakthrough in Key Technologies/3.3 Von Braun, Steinhoff, and Missile Guidance.md)
-* [4. 基地的困难时间](WAIT.md)
+* [4. 基地的困难时间](4. Peenemünde's Time of Troubles/4.0 Peenemünde's Time of Troubles.md)
 * [5. 希特勒压注火箭](WAIT.md)
 * [6. 斯佩尔、希姆莱与劳工营](WAIT.md)
 * [7. 转入地下](WAIT.md)
