@@ -19,6 +19,7 @@
     * [布劳恩，施泰因霍夫与导弹制导](3. Breakthrough in Key Technologies/3.3 Von Braun, Steinhoff, and Missile Guidance.md)
 * [4. 基地的困难时间](4. Peenemünde's Time of Troubles/4.0 Peenemünde's Time of Troubles.md)
     * [佩内明德生产工厂](4. Peenemünde's Time of Troubles/4.1 The Peenemünde's Production Plant.md)
+    * [打响优先权争夺战](4. Peenemünde's Time of Troubles/4.2 The Battle for Priority Begins.md)
 * [5. 希特勒压注火箭](WAIT.md)
 * [6. 斯佩尔、希姆莱与劳工营](WAIT.md)
 * [7. 转入地下](WAIT.md)
