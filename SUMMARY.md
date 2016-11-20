@@ -22,6 +22,7 @@
     * [打响优先权争夺战](4. Peenemünde's Time of Troubles/4.2 The Battle for Priority Begins.md)
 * [5. 希特勒下注火箭](5. Hitler Embraces the Rocket/5.0 Hitler Embraces the Rocket.md)
     * [元首批准——但争夺继续](5. Hitler Embraces the Rocket/5.1 The Führer approves--But the Battle Continues.md)
+    * [飞行炸弹，火箭飞机与防空导弹](5. Hitler Embraces the Rocket/5.2 Flying Bombs, Rocket Planes, and Anti-aircraft Missiles.md)
 * [6. 斯佩尔、希姆莱与劳工营](WAIT.md)
 * [7. 转入地下](WAIT.md)
 * [8. 火箭，Inc.](WAIT.md)
