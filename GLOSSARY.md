@@ -1,4 +1,14 @@
 # Glossary
 
-## 涡轮泵
-将推进剂泵至燃烧室，一般使用离心技术。
+## Argus aircraft engine firm
+5.2
+Argus Motoren was a German manufacturing firm known for their series of small inverted-V engines and the Argus As 014 pulsejet for the V-1 flying bomb.
+
+## Fieseler aircraft firm
+5.2
+The Gerhard Fieseler Werke (GFW) in Kassel was a German aircraft manufacturer of the 1930s and 1940s. The company is remembered mostly for its military aircraft built for the Luftwaffe during the Second World War.
+
+## Henschel Aircraft
+5.2
+Henschel & Son (German: Henschel und Sohn) was a German company, located in Kassel. 
+Early in 1935, Henschel began manufacturing Panzer I tanks. During World War II, the firm was responsible for license production of the Dornier Do 17Z medium bomber, and in 1939–1940 it began large-scale production of the Panzer III. Henschel was the sole manufacturer of the Tiger I and Tiger II. In 1945, the company had 8000 workers working in two shifts each of 12 hours, and forced labour was used extensively. The company's factories were among the most important bomber targets and were nearly completely destroyed, although throughout the war they did manufacture narrow gauge locomotives.
