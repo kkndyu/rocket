@@ -1,7 +1,7 @@
 # 火箭与第三帝国
 翻译连载中
 
-本书译自《The Rocket and the Reich》，讲述了二战德国V-2火箭研发历程。V-2的技术难题如何攻克，元首的赞赏如何化为实际的资源，劳工匮乏的困境如何化解，这一切尽在《火箭和第三帝国》。
+本书译自《The Rocket and the Reich》，讲述了二战德国V-2火箭研发历程。V-2的技术难题如何攻克，元首的赞赏如何转化为实际的资源，劳工匮乏的困境如何化解，这一切尽在《火箭和第三帝国》。
 
 在线阅读：[GitBook](https://www.gitbook.com/read/book/kkndyu/rocket) 或 [Github](https://github.com/kkndyu/rocket/blob/master/SUMMARY.md)。
 
@@ -21,7 +21,7 @@
 * 所有脚注均为译注
 * 所有标示来源的图片及图片说明文字均为译者所加
 * 附录内容为译者所加
-* 德军将官军衔直译为少将、中将、军种上将、上将
+* 德军将官军衔直译为少将、中将、上将、一级上将
 
 ### 原著
 
