@@ -2,7 +2,7 @@
 
 ## Count Zeppelin
 （5.1）
-斐迪南·冯·齐柏林伯爵(838年7月8日－1917年3月8日) ，传奇人物，创建了齐柏林飞艇公司。
+斐迪南·冯·齐柏林伯爵(1838年7月8日－1917年3月8日) ，传奇人物，创建了齐柏林飞艇公司。
 
 ## Argus
 （5.2） Argus aircraft engine firm.
@@ -18,4 +18,5 @@ Henschel & Son (German: Henschel und Sohn) was a German company, located in Kass
 Early in 1935, Henschel began manufacturing Panzer I tanks. During World War II, the firm was responsible for license production of the Dornier Do 17Z medium bomber, and in 1939–1940 it began large-scale production of the Panzer III. Henschel was the sole manufacturer of the Tiger I and Tiger II. In 1945, the company had 8000 workers working in two shifts each of 12 hours, and forced labour was used extensively. The company's factories were among the most important bomber targets and were nearly completely destroyed, although throughout the war they did manufacture narrow gauge locomotives.
 
 ## Dornier Aircraft
-（5.2）由Claude Dornier成立于1914年，二战期间，公司的军用机型代表作：轻型轰炸机Dornier Do 17, 绰号The Flying Pencil。
+（5.2）
+由Claude Dornier成立于1914年，二战期间，公司的军用机型代表作：轻型轰炸机Dornier Do 17, 绰号The Flying Pencil。
