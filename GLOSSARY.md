@@ -20,9 +20,3 @@ Early in 1935, Henschel began manufacturing Panzer I tanks. During World War II,
 ## Dornier Aircraft
 （5.2）
 由Claude Dornier成立于1914年，二战期间，公司的军用机型代表作：轻型轰炸机Dornier Do 17, 绰号The Flying Pencil。
-
-## 脉冲喷气发动机
-pulsejet engine
-
-## pulsejet engine
-脉冲喷气发动机
