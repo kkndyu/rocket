@@ -20,3 +20,7 @@ Early in 1935, Henschel began manufacturing Panzer I tanks. During World War II,
 ## Dornier Aircraft
 （5.2）
 由Claude Dornier成立于1914年，二战期间，公司的军用机型代表作：轻型轰炸机Dornier Do 17, 绰号The Flying Pencil。
+
+## Meillerwagen
+（5.3）
+The Meillerwagen (English: Meiller Vehicle) was a German World War II trailer used to transport a V-2 rocket from the transloading point of the Technical Troop Area to the launching point, to erect the missile on the Brennstand (English: firing stand), and to act as the service gantry for fuelling and launch preparation.
