@@ -26,6 +26,7 @@
     * [A-4运抵发射台](5. Hitler Embraces the Rocket/5.3 The A-4 Reaches the Launch Pad.md)
 * [6. 施佩尔，希姆莱与劳工营](6. Speer, Himmler and Slave Labor/6.0 Speer, Himmler and Slave Labor.md)
     * [施佩尔的介入](6. Speer, Himmler and Slave Labor/6.1 The Speer Ministry Intrudes.md)
+    * [希姆莱有兴趣](6. Speer, Himmler and Slave Labor/6.2 Himmler Takes an Interest.md)
 * [7. 转入地下](WAIT.md)
 * [8. 火箭，Inc.](WAIT.md)
 * [后记 佩内明德的遗产](WAIT.md)
