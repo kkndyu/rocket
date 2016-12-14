@@ -28,6 +28,7 @@
     * [施佩尔的介入](6. Speer, Himmler and Slave Labor/6.1 The Speer Ministry Intrudes.md)
     * [希姆莱有兴趣](6. Speer, Himmler and Slave Labor/6.2 Himmler Takes an Interest.md)
     * [使用奴工的决定](6. Speer, Himmler and Slave Labor/6.3 The Decision to Use Slave Labor.md)
+    * [导弹狂热](6. Speer, Himmler and Slave Labor/6.4 Missile Mania.md)
 * [7. 转入地下](WAIT.md)
 * [8. 火箭，Inc.](WAIT.md)
 * [后记 佩内明德的遗产](WAIT.md)
