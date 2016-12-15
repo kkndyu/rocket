@@ -1,7 +1,8 @@
 # 火箭与第三帝国
+
 翻译连载中
 
-本书译自《The Rocket and the Reich》，讲述了二战德国V-2火箭研发历程。V-2的技术难题如何攻克，元首的赞赏如何转化为实际的资源，劳工匮乏的困境如何化解，这一切尽在《火箭和第三帝国》。
+本书译自《The Rocket and the Reich》，讲述了纳粹德国V-2火箭研发历程。V-2的技术难题如何攻克，元首的赞赏如何转化为实际的资源，劳工匮乏的困境如何化解，这一切尽在《火箭和第三帝国》。
 
 在线阅读：[GitBook](https://www.gitbook.com/read/book/kkndyu/rocket) 或 [Github](https://github.com/kkndyu/rocket/blob/master/SUMMARY.md)。
 
@@ -35,24 +36,30 @@
 本译文源码开源托管在 Github 上，欢迎参与维护：[https://github.com/kkndyu/rocket](https://github.com/kkndyu/rocket)
 
 * 在 GitHub 上 `fork` 到自己的仓库，如 `userid/rocket`，然后 `clone` 到本地，并设置用户信息。
-```
-$ git clone git@github.com:kkndyu/rocket.git
-$ cd rocket
-$ git config --local user.name "yourname"
-$ git config --local user.email "your email"
-```
+  ```
+  $ git clone git@github.com:kkndyu/rocket.git
+  $ cd rocket
+  $ git config --local user.name "yourname"
+  $ git config --local user.email "your email"
+  ```
+
 * 修改代码后提交，并推送到自己的仓库。
-```
-$ #do some change on the content
-$ git commit -am "Fix issue #1: change helo to hello"
-$ git push
-```
+  ```
+  $ #do some change on the content
+  $ git commit -am "Fix issue #1: change helo to hello"
+  $ git push
+  ```
+
 * 在 GitHub 网站上提交 pull request。
 * 定期使用项目仓库内容更新自己仓库内容。
-```
-$ git remote add upstream https://github.com/kkndyu/rocket
-$ git fetch upstream
-$ git checkout master
-$ git rebase upstream/master
-$ git push -f origin master
-```
+  ```
+  $ git remote add upstream https://github.com/kkndyu/rocket
+  $ git fetch upstream
+  $ git checkout master
+  $ git rebase upstream/master
+  $ git push -f origin master
+  ```
+
+
+
+
