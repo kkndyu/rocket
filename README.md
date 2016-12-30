@@ -9,7 +9,8 @@
 * pdf 版本 [下载](https://www.gitbook.com/download/pdf/book/kkndyu/rocket)
 * epub 版本 [下载](https://www.gitbook.com/download/epub/book/kkndyu/rocket)
 
- ### 凡例
+### 凡例
+
 * 德文人名统一根据商务印书馆《德语姓名译名手册》译出
 * 德文地名、机构名参考 wiki 百科
 * 德文著作、论文参考 wiki 百科
