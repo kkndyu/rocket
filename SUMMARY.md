@@ -30,6 +30,7 @@
     * [使用奴工的决定](6. Speer, Himmler and Slave Labor/6.3 The Decision to Use Slave Labor.md)
     * [导弹狂热](6. Speer, Himmler and Slave Labor/6.4 Missile Mania.md)
 * [7. 转入地下](7. The Move Underground/7.0 The Move Underground.md)
+    * [疏散、衰退和非人道堕落](7. The Move Underground/7.1 Dispersal, Decline, and Inhuman Degradation.md)
 * [8. 火箭，Inc.](8. Rockets, Inc/8.0 Rockets, Inc..md)
     * [火箭项目再次重组](8. Rockets, Inc/8.1 The Rocket Program is Reorganized - Again.md)
     * [研发与绝境](8. Rockets, Inc/8.2 Development and Desperation.md)
