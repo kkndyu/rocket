@@ -33,6 +33,7 @@
 * [8. 火箭，Inc.](8. Rockets, Inc/8.0 Rockets, Inc..md)
     * [火箭项目再次重组](8. Rockets, Inc/8.1 The Rocket Program is Reorganized - Again.md)
     * [研发与绝境](8. Rockets, Inc/8.2 Development and Desperation.md)
-* [后记 佩内明德的遗产](WAIT.md)
+    * [疏散、惨败和远走高飞](8. Rockets, Inc/8.3.md)
+* [后记 佩内明德的遗产](9. Peenemünde's Legacy/9.0 Peenemünde's Legacy.md)
 * 附录
     * [空军的火箭引擎](translator/Walter_Hydrogen_Peroxide_Motor.md)
