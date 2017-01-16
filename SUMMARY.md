@@ -30,7 +30,7 @@
     * [使用奴工的决定](6. Speer, Himmler and Slave Labor/6.3 The Decision to Use Slave Labor.md)
     * [导弹狂热](6. Speer, Himmler and Slave Labor/6.4 Missile Mania.md)
 * [7. 转入地下](7. The Move Underground/7.0 The Move Underground.md)
-* [8. 火箭，Inc.](WAIT.md)
+* [8. 火箭，Inc.](8. Rockets, Inc/8.0 Rocket, Inc..md)
 * [后记 佩内明德的遗产](WAIT.md)
 * 附录
     * [空军的火箭引擎](translator/Walter_Hydrogen_Peroxide_Motor.md)
