@@ -32,6 +32,7 @@
 * [7. 转入地下](7. The Move Underground/7.0 The Move Underground.md)
     * [疏散、衰退和非人道堕落](7. The Move Underground/7.1 Dispersal, Decline, and Inhuman Degradation.md)
     * [布劳恩被捕](7. The Move Underground/7.2 The Arrest of Von Braun.md)
+    * [新的梦魇](7. The Move Underground/7.3 New Nightmares.md)
 * [8. 火箭，Inc.](8. Rockets, Inc/8.0 Rockets, Inc..md)
     * [火箭项目再次重组](8. Rockets, Inc/8.1 The Rocket Program is Reorganized - Again.md)
     * [研发与绝境](8. Rockets, Inc/8.2 Development and Desperation.md)
